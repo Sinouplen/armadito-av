@@ -15,6 +15,11 @@ In order to compile Armadito ClamAV module, you need the following tools:
 
 .. warning:: Be sure you have built **Armadito core** library before trying to build this module.
 
+- Ubuntu: 
+
+::
+
+     apt-get install automake autoconf libtool libglib2.0-dev libmagic-dev libxml2-dev libjson-c-dev
 
 Configuration
 -------------
